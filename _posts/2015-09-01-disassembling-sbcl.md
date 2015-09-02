@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Playing with SBCL
+title: Disassembling SBCL
 ---
 
 If you want to play with dynamic programming language and see how all fancy stuff are implemented at the assembly level then [SBCL](http://www.sbcl.org) (Common Lisp implementation) is right tool for that task.
